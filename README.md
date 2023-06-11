@@ -1,4 +1,4 @@
-# nlp_project_chat_analyzer
+# Whatsapp_chat_analyzer
 This is the link for demo of this project:  https://pallabpal-nlp-project-chat-analyzer-app-bpxbm9.streamlit.app/ ( copy and paste the link into the browser. Plesae don't use directly)
 This project aims to extract important features from a WhatsApp chat text using regular expressions. It allows for the extraction of information such as names, messages, dates, and times from the chat, enabling further analysis both on a group level and individual level.
 
@@ -16,7 +16,7 @@ The extracted features can then be used to perform various analyses on the chat 
 ## Installation
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/whatsapp-chat-analysis.git
+Clone the repository: git clone https://github.com/Pallabpal/nlp_project_chat_analyzer.git
 Navigate to the project directory: cd whatsapp-chat-analysis
 Install the required dependencies: pip install -r requirements.txt
 ## Usage
