@@ -1,5 +1,8 @@
 # Whatsapp_chat_analyzer
-This is the link for demo of this project:  https://pallabpal-nlp-project-chat-analyzer-app-bpxbm9.streamlit.app/ ( copy and paste the link into the browser. Plesae don't use directly)
+This is the link for demo of this project: 
+1.https://whatsapp.streamlit.app/
+2.https://pallabpal-nlp-project-chat-analyzer-app-bpxbm9.streamlit.app/
+( copy and paste the link into the browser. Plesae don't use directly)
 This project aims to extract important features from a WhatsApp chat text using regular expressions. It allows for the extraction of information such as names, messages, dates, and times from the chat, enabling further analysis both on a group level and individual level.
 
 ## Table of Contents
